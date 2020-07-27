@@ -1,0 +1,30 @@
+transaksi pembelian
+- input ppn before submit data pembelian 
+- potongan setelah diskon 
+- tambahkan pada table 
+- tanggal faktur 
+- masukkan lokasi penyimpanan obat
+
+
+transaksi  penjualan
+- no-faktur : generate otomatis, format tunggu di tim 
+- masuk ke table temporary 
+- alert ed
+
+
+-verifikasi penjualan  (menu pengambilan barang )
+	- scan barcode 
+	- verifikasi 
+	- kuraangi stok stelah verifikasi 
+
+
+===================================================
+	- filter pembelian perbulan
+- filter pembelian pertanggal
+
+-inport data industri dari excel
+-update manual
+
+
+-SURAT PESANAN
+

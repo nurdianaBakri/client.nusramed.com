@@ -1,0 +1,1 @@
+ <input type="text" id="kd_kategori_obat" name="kd_kategori_obat" class="form-control input-visible" value="-" required> 

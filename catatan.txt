@@ -1,0 +1,12 @@
+- rumus sub total pembelian, done
+- tanggal faktur pembelian, done
+- laporan pembelian 1707/ISPA/IV/2020 kosong, done
+- laporan pembelian S-PNG-003151, molacort seharuusnya ada 5 item, caladin 36 item, 
+  cutilos 5 item, lacto cuman 3 item 
+- perbaiki detail pembelian, nomor faktur, detail
+- nota return penjulan, buat table baru, history return 
+- update data pembelian, sesuaikan qty dengan faktur dr suplier 
+- kirim ke mas jun, siapa saja yang jatuh tempo
+- di laporan pembelian tampilkan tanggal faktur, status pembelian
+- tanggal masa berlaku SIA outlet tampilkan dihome, done 
+- nota tagihan ke mas jun
